@@ -1,0 +1,26 @@
+# Flask and Core Dependencies
+Flask==3.0.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+
+# CORS Support
+flask-cors==4.0.0
+
+# Database Support (SQLAlchemy)
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+
+# Authentication and Security
+Flask-JWT-Extended==4.5.3
+bcrypt==4.1.1
+Flask-Talisman==1.1.0
+
+# Validation and Serialization
+marshmallow==3.20.1
+flask-marshmallow==0.15.0
+
+# HTTP Client
+requests==2.31.0
+
+# Utilities
+Click==8.1.7
